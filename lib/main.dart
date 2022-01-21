@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:newapp/smc.dart';
+import 'package:newapp/xyz.dart';
+
 
 void main() {
   runApp(const MyApp());
@@ -17,7 +18,7 @@ class MyApp extends StatelessWidget {
         
         primarySwatch: Colors.blue,
       ),
-      home: const Abcd(),
+      home: const Sharad(),
     );
   }
 }
